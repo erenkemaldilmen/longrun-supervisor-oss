@@ -1,0 +1,17 @@
+{
+  "task_id": "",
+  "status": "queued",
+  "step": "intake",
+  "step_index": 0,
+  "started_at": "",
+  "min_run_seconds": 0,
+  "subagents": [],
+  "progress": {
+    "shards_total": 0,
+    "shards_completed": 0,
+    "sources_collected": 0,
+    "last_cycle_new_evidence": 0
+  },
+  "last_error": null,
+  "updated_at": ""
+}

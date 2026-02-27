@@ -1,0 +1,13 @@
+{
+  "task_id": "",
+  "title": "",
+  "prompt": "",
+  "status": "queued",
+  "owner_channel": "",
+  "live_progress": true,
+  "update_interval_sec": 20,
+  "heartbeat_interval_sec": 1800,
+  "min_run_seconds": 0,
+  "created_at": "",
+  "output_mode": "source_backed_report"
+}

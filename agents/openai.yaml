@@ -1,0 +1,4 @@
+interface:
+  display_name: "Longrun Supervisor"
+  short_description: "Resumable long-run research orchestration."
+  default_prompt: "Use this skill for long-running research tasks that need checkpoints, helper-agent fetch fanout, and source-backed final reports."
