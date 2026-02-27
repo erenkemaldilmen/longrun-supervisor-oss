@@ -48,3 +48,14 @@ scripts/enforce_min_runtime.sh <workspace_dir> <task_id>
 ## License
 
 MIT
+
+## Community
+
+- Open issues for bugs and feature requests.
+- Use pull requests for contributions.
+- Follow `CONTRIBUTING.md` for development rules.
+
+## Support
+
+- GitHub Sponsors: enabled via `.github/FUNDING.yml`
+- You can also add external support links there (Buy Me a Coffee, Open Collective, etc.).
